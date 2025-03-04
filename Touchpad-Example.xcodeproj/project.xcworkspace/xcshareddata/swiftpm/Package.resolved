@@ -1,0 +1,15 @@
+{
+  "originHash" : "86194bfbf17fb0da55688b215db55b96a9f6b403f6e88a949fd9af471e997c98",
+  "pins" : [
+    {
+      "identity" : "touchpad",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/timi2506/Touchpad",
+      "state" : {
+        "branch" : "main",
+        "revision" : "7f9bee331392b287f7bbfe90600194aa7e2c8c0f"
+      }
+    }
+  ],
+  "version" : 3
+}
