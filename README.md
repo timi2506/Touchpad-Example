@@ -6,4 +6,4 @@
 <h1 align="left">Touchpad</h1>
 
 ## What's this?
-This is the Example Project to my Swift Package: [Touchpad](https://github.com/timi2506/Touchpad/edit/main/README.md)
+This is the Example Project to my Swift Package: [Touchpad](https://github.com/timi2506/Touchpad/)
